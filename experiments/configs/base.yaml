@@ -1,0 +1,32 @@
+paths:
+  imagenet:
+    val_root: /imagenet/val_classed #separated to class folders using "Separate Imagenet Val Dataset to Class Folders.ipynb"
+    val_manifest: /imagenet/meta/val_manifest.jsonl #delivered with Imagenet dataset
+
+  outputs:
+    root: /experiments
+
+content:
+  manifest: /datasets/inputs/imagenet/meta/val_selected_manifest.json #created by sam2aug/experiments/scripts/build_selected_manifest.py
+
+generation:
+  resize_mode: stretch
+  placement: full_image
+  feather_px: 1
+  dilate_px: 2
+
+textures:
+  donor_dir: /datasets/inputs/donor_images_geirhos_square
+  texture_wnids:
+    - n03000247  # chain_mail
+    - n01806143  # peacock
+    - n02129604  # tiger
+    - n03530642  # honeycomb
+    - n02391049  # zebra
+
+  texture_names:
+    n03000247: chain_mail
+    n01806143: peacock
+    n02129604: tiger
+    n03530642: honeycomb
+    n02391049: zebra

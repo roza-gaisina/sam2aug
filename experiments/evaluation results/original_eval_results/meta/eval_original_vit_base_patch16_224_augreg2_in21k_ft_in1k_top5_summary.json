@@ -1,0 +1,56 @@
+{
+  "mode": "original",
+  "model": "vit_base_patch16_224.augreg2_in21k_ft_in1k",
+  "num_samples": 144,
+  "topk": 5,
+  "decision_top1": {
+    "shape": 143,
+    "texture": 0,
+    "other": 1
+  },
+  "decision_top1_pct": {
+    "shape": 99.30555555555556,
+    "texture": 0.0,
+    "other": 0.6944444444444444
+  },
+  "decision_top5": {
+    "shape": 0,
+    "texture": 0,
+    "both": 144,
+    "other": 0
+  },
+  "decision_top5_pct": {
+    "shape": 0.0,
+    "texture": 0.0,
+    "both": 100.0,
+    "other": 0.0
+  },
+  "semantic_robustness": {
+    "parent_top1_match_count": 144,
+    "parent_top1_match_pct": 100.0,
+    "parent_top5_match_count": 144,
+    "parent_top5_match_pct": 100.0,
+    "parent_prob_mass_mean": 0.8601067740884092
+  },
+  "original_image_auc": {
+    "macro_ovr_auc": 1.0,
+    "per_class_auc": {
+      "n01514859": 1.0,
+      "n02090622": 1.0,
+      "n02123045": 1.0,
+      "n02132136": 1.0,
+      "n02504458": 1.0,
+      "n02690373": 1.0,
+      "n02708093": 1.0,
+      "n02823428": 1.0,
+      "n02835271": 1.0,
+      "n02981792": 1.0,
+      "n03041632": 1.0,
+      "n03085013": 1.0,
+      "n03100240": 1.0,
+      "n03417042": 1.0,
+      "n04099969": 1.0
+    },
+    "num_auc_classes": 15
+  }
+}

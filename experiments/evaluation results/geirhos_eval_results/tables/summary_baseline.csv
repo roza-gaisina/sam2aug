@@ -1,0 +1,5 @@
+model,model_display,family,n,shape_top1_pct,texture_top1_pct,other_top1_pct,shape_top5_pct,texture_top5_pct,both_top5_pct,other_top5_pct,shape_bias_top1,shape_bias_top5,shape_in_top5_rate,texture_in_top5_rate,mean_prob_shape,mean_prob_texture,mean_prob_top1,mean_prob_gap_shape_minus_texture,median_prob_gap_shape_minus_texture,mean_logit_gap_shape_minus_texture,parent_top1_match,parent_top5_match,parent_prob_mass
+resnet18,ResNet18,CNN,144,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,1.0,0.8807065670068065,0.8807065670068065,0.8807065670068065,0.0,0.0,0.0,1.0,1.0,0.9200160511665874
+resnet50,ResNet50,CNN,144,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,1.0,0.9664025441226032,0.9664025441226032,0.9664025441226032,0.0,0.0,0.0,1.0,1.0,0.982875008136034
+vit_base,ViT Base,ViT,144,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,1.0,0.9124803630014261,0.9124803630014261,0.9124803630014261,0.0,0.0,0.0,1.0,1.0,0.9693691556652387
+vit_tiny,ViT Tiny,ViT,144,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,1.0,0.8577187529040707,0.8577187529040707,0.8577187529040707,0.0,0.0,0.0,1.0,1.0,0.9313650156060854

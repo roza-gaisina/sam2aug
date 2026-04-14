@@ -1,0 +1,5 @@
+model,n_original,n_generated,n_compare,n_classes_original,n_classes_generated,scale_tags_generated
+ResNet-18,55,220,220,11,11,"scale025, scale050, scale075, scale100"
+ResNet-50,55,220,220,11,11,"scale025, scale050, scale075, scale100"
+ViT-Tiny,55,220,220,11,11,"scale025, scale050, scale075, scale100"
+ViT-Base,55,220,220,11,11,"scale025, scale050, scale075, scale100"

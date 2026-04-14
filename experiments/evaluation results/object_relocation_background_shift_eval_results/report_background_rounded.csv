@@ -1,0 +1,9 @@
+background_name,model_display,n,generated_top1_acc,generated_top5_acc,mean_delta_prob_correct,pred_changed_rate
+openwater,ViT-Base,55,0.836,0.982,-0.279,0.164
+openwater,ResNet-50,55,0.727,0.927,-0.321,0.273
+openwater,ViT-Tiny,55,0.527,0.727,-0.49,0.473
+openwater,ResNet-18,55,0.436,0.8,-0.545,0.564
+surface,ViT-Base,55,0.836,0.982,-0.198,0.164
+surface,ResNet-50,55,0.745,0.982,-0.223,0.255
+surface,ResNet-18,55,0.655,0.909,-0.384,0.345
+surface,ViT-Tiny,55,0.509,0.818,-0.433,0.491

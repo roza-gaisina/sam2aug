@@ -1,0 +1,6492 @@
+[
+  {
+    "image_id": "ILSVRC2012_val_00005535",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00005535.JPEG",
+    "primary_bbox_xyxy": [
+      25,
+      52,
+      402,
+      460
+    ],
+    "source_image_size_hw": [
+      500,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n01514859/ILSVRC2012_val_00005535__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7949936205061052,
+        "pos": [
+          511,
+          271
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 85810,
+      "relocated_mask_area_px": 276102,
+      "object_rgb_shape": [
+        500,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00005535",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00005535.JPEG",
+    "primary_bbox_xyxy": [
+      25,
+      52,
+      402,
+      460
+    ],
+    "source_image_size_hw": [
+      500,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n01514859/ILSVRC2012_val_00005535__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.692336214995279,
+        "pos": [
+          537,
+          217
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 85810,
+      "relocated_mask_area_px": 245622,
+      "object_rgb_shape": [
+        500,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009615",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00009615.JPEG",
+    "primary_bbox_xyxy": [
+      0,
+      21,
+      386,
+      374
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n01514859/ILSVRC2012_val_00009615__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 63924,
+      "relocated_mask_area_px": 207228,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009615",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00009615.JPEG",
+    "primary_bbox_xyxy": [
+      0,
+      21,
+      386,
+      374
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n01514859/ILSVRC2012_val_00009615__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 63924,
+      "relocated_mask_area_px": 207228,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014879",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00014879.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      37,
+      409,
+      357
+    ],
+    "source_image_size_hw": [
+      388,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n01514859/ILSVRC2012_val_00014879__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          371
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50124,
+      "relocated_mask_area_px": 162203,
+      "object_rgb_shape": [
+        388,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014879",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00014879.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      37,
+      409,
+      357
+    ],
+    "source_image_size_hw": [
+      388,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n01514859/ILSVRC2012_val_00014879__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          291
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50124,
+      "relocated_mask_area_px": 162203,
+      "object_rgb_shape": [
+        388,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014917",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00014917.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      39,
+      452,
+      387
+    ],
+    "source_image_size_hw": [
+      401,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n01514859/ILSVRC2012_val_00014917__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          359
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 49970,
+      "relocated_mask_area_px": 161898,
+      "object_rgb_shape": [
+        401,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014917",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00014917.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      39,
+      452,
+      387
+    ],
+    "source_image_size_hw": [
+      401,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n01514859/ILSVRC2012_val_00014917__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          279
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 49970,
+      "relocated_mask_area_px": 161898,
+      "object_rgb_shape": [
+        401,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00026271",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00026271.JPEG",
+    "primary_bbox_xyxy": [
+      110,
+      18,
+      413,
+      483
+    ],
+    "source_image_size_hw": [
+      500,
+      481
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n01514859/ILSVRC2012_val_00026271__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          527,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 70860,
+      "relocated_mask_area_px": 229581,
+      "object_rgb_shape": [
+        500,
+        481,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00026271",
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "content_rel_path": "n01514859/ILSVRC2012_val_00026271.JPEG",
+    "primary_bbox_xyxy": [
+      110,
+      18,
+      413,
+      483
+    ],
+    "source_image_size_hw": [
+      500,
+      481
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n01514859/ILSVRC2012_val_00026271__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          527,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 70860,
+      "relocated_mask_area_px": 229581,
+      "object_rgb_shape": [
+        500,
+        481,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00006265",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00006265.JPEG",
+    "primary_bbox_xyxy": [
+      70,
+      69,
+      387,
+      278
+    ],
+    "source_image_size_hw": [
+      331,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02090622/ILSVRC2012_val_00006265__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          422
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 37861,
+      "relocated_mask_area_px": 122667,
+      "object_rgb_shape": [
+        331,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00006265",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00006265.JPEG",
+    "primary_bbox_xyxy": [
+      70,
+      69,
+      387,
+      278
+    ],
+    "source_image_size_hw": [
+      331,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02090622/ILSVRC2012_val_00006265__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          342
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 37861,
+      "relocated_mask_area_px": 122667,
+      "object_rgb_shape": [
+        331,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00016996",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00016996.JPEG",
+    "primary_bbox_xyxy": [
+      44,
+      32,
+      423,
+      474
+    ],
+    "source_image_size_hw": [
+      476,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02090622/ILSVRC2012_val_00016996__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          291
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 83691,
+      "relocated_mask_area_px": 271197,
+      "object_rgb_shape": [
+        476,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00016996",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00016996.JPEG",
+    "primary_bbox_xyxy": [
+      44,
+      32,
+      423,
+      474
+    ],
+    "source_image_size_hw": [
+      476,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02090622/ILSVRC2012_val_00016996__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7136267012698998,
+        "pos": [
+          531,
+          232
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 83691,
+      "relocated_mask_area_px": 246007,
+      "object_rgb_shape": [
+        476,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024351",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00024351.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      70,
+      325,
+      448
+    ],
+    "source_image_size_hw": [
+      500,
+      390
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02090622/ILSVRC2012_val_00024351__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          609,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 47012,
+      "relocated_mask_area_px": 152273,
+      "object_rgb_shape": [
+        500,
+        390,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024351",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00024351.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      70,
+      325,
+      448
+    ],
+    "source_image_size_hw": [
+      500,
+      390
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02090622/ILSVRC2012_val_00024351__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          609,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 47012,
+      "relocated_mask_area_px": 152273,
+      "object_rgb_shape": [
+        500,
+        390,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00029814",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00029814.JPEG",
+    "primary_bbox_xyxy": [
+      79,
+      5,
+      384,
+      329
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02090622/ILSVRC2012_val_00029814__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 49500,
+      "relocated_mask_area_px": 160458,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00029814",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00029814.JPEG",
+    "primary_bbox_xyxy": [
+      79,
+      5,
+      384,
+      329
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02090622/ILSVRC2012_val_00029814__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 49500,
+      "relocated_mask_area_px": 160458,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00043334",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00043334.JPEG",
+    "primary_bbox_xyxy": [
+      60,
+      78,
+      499,
+      267
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02090622/ILSVRC2012_val_00043334__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          420
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 33514,
+      "relocated_mask_area_px": 108379,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00043334",
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "content_rel_path": "n02090622/ILSVRC2012_val_00043334.JPEG",
+    "primary_bbox_xyxy": [
+      60,
+      78,
+      499,
+      267
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02090622/ILSVRC2012_val_00043334__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          340
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 33514,
+      "relocated_mask_area_px": 108379,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00008876",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00008876.JPEG",
+    "primary_bbox_xyxy": [
+      250,
+      7,
+      527,
+      478
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02123045/ILSVRC2012_val_00008876__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          384,
+          288
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 77201,
+      "relocated_mask_area_px": 250159,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00008876",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00008876.JPEG",
+    "primary_bbox_xyxy": [
+      250,
+      7,
+      527,
+      478
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02123045/ILSVRC2012_val_00008876__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7842024699139314,
+        "pos": [
+          389,
+          212
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 77201,
+      "relocated_mask_area_px": 245705,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00012975",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00012975.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      30,
+      274,
+      253
+    ],
+    "source_image_size_hw": [
+      273,
+      300
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02123045/ILSVRC2012_val_00012975__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          690,
+          474
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 29042,
+      "relocated_mask_area_px": 94046,
+      "object_rgb_shape": [
+        273,
+        300,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00012975",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00012975.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      30,
+      274,
+      253
+    ],
+    "source_image_size_hw": [
+      273,
+      300
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02123045/ILSVRC2012_val_00012975__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          690,
+          394
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 29042,
+      "relocated_mask_area_px": 94046,
+      "object_rgb_shape": [
+        273,
+        300,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00020136",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00020136.JPEG",
+    "primary_bbox_xyxy": [
+      55,
+      138,
+      378,
+      315
+    ],
+    "source_image_size_hw": [
+      400,
+      400
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02123045/ILSVRC2012_val_00020136__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          600,
+          360
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 21106,
+      "relocated_mask_area_px": 68425,
+      "object_rgb_shape": [
+        400,
+        400,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00020136",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00020136.JPEG",
+    "primary_bbox_xyxy": [
+      55,
+      138,
+      378,
+      315
+    ],
+    "source_image_size_hw": [
+      400,
+      400
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02123045/ILSVRC2012_val_00020136__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          600,
+          280
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 21106,
+      "relocated_mask_area_px": 68425,
+      "object_rgb_shape": [
+        400,
+        400,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022080",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00022080.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      66,
+      503,
+      289
+    ],
+    "source_image_size_hw": [
+      319,
+      512
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02123045/ILSVRC2012_val_00022080__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          499,
+          433
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 66412,
+      "relocated_mask_area_px": 215229,
+      "object_rgb_shape": [
+        319,
+        512,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022080",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00022080.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      66,
+      503,
+      289
+    ],
+    "source_image_size_hw": [
+      319,
+      512
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02123045/ILSVRC2012_val_00022080__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          499,
+          353
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 66412,
+      "relocated_mask_area_px": 215229,
+      "object_rgb_shape": [
+        319,
+        512,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00041570",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00041570.JPEG",
+    "primary_bbox_xyxy": [
+      439,
+      284,
+      1550,
+      1531
+    ],
+    "source_image_size_hw": [
+      1536,
+      2048
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02123045/ILSVRC2012_val_00041570__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 0.695710018202975,
+        "pos": [
+          247,
+          185
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 571225,
+      "relocated_mask_area_px": 276629,
+      "object_rgb_shape": [
+        1536,
+        2048,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00041570",
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "content_rel_path": "n02123045/ILSVRC2012_val_00041570.JPEG",
+    "primary_bbox_xyxy": [
+      439,
+      284,
+      1550,
+      1531
+    ],
+    "source_image_size_hw": [
+      1536,
+      2048
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02123045/ILSVRC2012_val_00041570__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 0.6559216954809867,
+        "pos": [
+          288,
+          136
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 571225,
+      "relocated_mask_area_px": 245567,
+      "object_rgb_shape": [
+        1536,
+        2048,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00003747",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00003747.JPEG",
+    "primary_bbox_xyxy": [
+      30,
+      87,
+      334,
+      254
+    ],
+    "source_image_size_hw": [
+      300,
+      360
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02504458/ILSVRC2012_val_00003747__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          636,
+          450
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 29350,
+      "relocated_mask_area_px": 95073,
+      "object_rgb_shape": [
+        300,
+        360,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00003747",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00003747.JPEG",
+    "primary_bbox_xyxy": [
+      30,
+      87,
+      334,
+      254
+    ],
+    "source_image_size_hw": [
+      300,
+      360
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02504458/ILSVRC2012_val_00003747__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          636,
+          370
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 29350,
+      "relocated_mask_area_px": 95073,
+      "object_rgb_shape": [
+        300,
+        360,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00005109",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00005109.JPEG",
+    "primary_bbox_xyxy": [
+      68,
+      14,
+      347,
+      694
+    ],
+    "source_image_size_hw": [
+      720,
+      418
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02504458/ILSVRC2012_val_00005109__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.4714537451689904,
+        "pos": [
+          652,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 127694,
+      "relocated_mask_area_px": 276393,
+      "object_rgb_shape": [
+        720,
+        418,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00005109",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00005109.JPEG",
+    "primary_bbox_xyxy": [
+      68,
+      14,
+      347,
+      694
+    ],
+    "source_image_size_hw": [
+      720,
+      418
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02504458/ILSVRC2012_val_00005109__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.3872998952151137,
+        "pos": [
+          670,
+          140
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 127694,
+      "relocated_mask_area_px": 245803,
+      "object_rgb_shape": [
+        720,
+        418,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00017097",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00017097.JPEG",
+    "primary_bbox_xyxy": [
+      61,
+      85,
+      321,
+      283
+    ],
+    "source_image_size_hw": [
+      334,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02504458/ILSVRC2012_val_00017097__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          419
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 31895,
+      "relocated_mask_area_px": 103375,
+      "object_rgb_shape": [
+        334,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00017097",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00017097.JPEG",
+    "primary_bbox_xyxy": [
+      61,
+      85,
+      321,
+      283
+    ],
+    "source_image_size_hw": [
+      334,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02504458/ILSVRC2012_val_00017097__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          339
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 31895,
+      "relocated_mask_area_px": 103375,
+      "object_rgb_shape": [
+        334,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00033235",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00033235.JPEG",
+    "primary_bbox_xyxy": [
+      141,
+      75,
+      604,
+      379
+    ],
+    "source_image_size_hw": [
+      439,
+      650
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02504458/ILSVRC2012_val_00033235__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          375,
+          325
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 79987,
+      "relocated_mask_area_px": 259071,
+      "object_rgb_shape": [
+        439,
+        650,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00033235",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00033235.JPEG",
+    "primary_bbox_xyxy": [
+      141,
+      75,
+      604,
+      379
+    ],
+    "source_image_size_hw": [
+      439,
+      650
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02504458/ILSVRC2012_val_00033235__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.752854609239792,
+        "pos": [
+          390,
+          255
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 79987,
+      "relocated_mask_area_px": 245836,
+      "object_rgb_shape": [
+        439,
+        650,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036121",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00036121.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      229,
+      325,
+      483
+    ],
+    "source_image_size_hw": [
+      500,
+      333
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02504458/ILSVRC2012_val_00036121__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          660,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 43789,
+      "relocated_mask_area_px": 141755,
+      "object_rgb_shape": [
+        500,
+        333,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036121",
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "content_rel_path": "n02504458/ILSVRC2012_val_00036121.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      229,
+      325,
+      483
+    ],
+    "source_image_size_hw": [
+      500,
+      333
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02504458/ILSVRC2012_val_00036121__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          660,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 43789,
+      "relocated_mask_area_px": 141755,
+      "object_rgb_shape": [
+        500,
+        333,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00000631",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00000631.JPEG",
+    "primary_bbox_xyxy": [
+      49,
+      163,
+      486,
+      341
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02690373/ILSVRC2012_val_00000631__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 19411,
+      "relocated_mask_area_px": 62908,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00000631",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00000631.JPEG",
+    "primary_bbox_xyxy": [
+      49,
+      163,
+      486,
+      341
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02690373/ILSVRC2012_val_00000631__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 19411,
+      "relocated_mask_area_px": 62908,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00003960",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00003960.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      118,
+      479,
+      217
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02690373/ILSVRC2012_val_00003960__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          420
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 20096,
+      "relocated_mask_area_px": 65006,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00003960",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00003960.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      118,
+      479,
+      217
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02690373/ILSVRC2012_val_00003960__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          340
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 20096,
+      "relocated_mask_area_px": 65006,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00010597",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00010597.JPEG",
+    "primary_bbox_xyxy": [
+      6,
+      145,
+      489,
+      327
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02690373/ILSVRC2012_val_00010597__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 26441,
+      "relocated_mask_area_px": 85630,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00010597",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00010597.JPEG",
+    "primary_bbox_xyxy": [
+      6,
+      145,
+      489,
+      327
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02690373/ILSVRC2012_val_00010597__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 26441,
+      "relocated_mask_area_px": 85630,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00016995",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00016995.JPEG",
+    "primary_bbox_xyxy": [
+      3,
+      69,
+      402,
+      262
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02690373/ILSVRC2012_val_00016995__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          420
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 23842,
+      "relocated_mask_area_px": 77187,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00016995",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00016995.JPEG",
+    "primary_bbox_xyxy": [
+      3,
+      69,
+      402,
+      262
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02690373/ILSVRC2012_val_00016995__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          340
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 23842,
+      "relocated_mask_area_px": 77187,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00030411",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00030411.JPEG",
+    "primary_bbox_xyxy": [
+      47,
+      109,
+      480,
+      222
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02690373/ILSVRC2012_val_00030411__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          420
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 16079,
+      "relocated_mask_area_px": 51876,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00030411",
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "content_rel_path": "n02690373/ILSVRC2012_val_00030411.JPEG",
+    "primary_bbox_xyxy": [
+      47,
+      109,
+      480,
+      222
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02690373/ILSVRC2012_val_00030411__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          340
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 16079,
+      "relocated_mask_area_px": 51876,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009361",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00009361.JPEG",
+    "primary_bbox_xyxy": [
+      64,
+      29,
+      512,
+      347
+    ],
+    "source_image_size_hw": [
+      423,
+      600
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02708093/ILSVRC2012_val_00009361__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.6244453233834786,
+        "pos": [
+          472,
+          376
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 104774,
+      "relocated_mask_area_px": 276591,
+      "object_rgb_shape": [
+        423,
+        600,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009361",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00009361.JPEG",
+    "primary_bbox_xyxy": [
+      64,
+      29,
+      512,
+      347
+    ],
+    "source_image_size_hw": [
+      423,
+      600
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02708093/ILSVRC2012_val_00009361__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.5315417384416425,
+        "pos": [
+          500,
+          316
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 104774,
+      "relocated_mask_area_px": 245875,
+      "object_rgb_shape": [
+        423,
+        600,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014353",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00014353.JPEG",
+    "primary_bbox_xyxy": [
+      104,
+      71,
+      409,
+      374
+    ],
+    "source_image_size_hw": [
+      439,
+      508
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02708093/ILSVRC2012_val_00014353__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          503,
+          325
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 70115,
+      "relocated_mask_area_px": 227305,
+      "object_rgb_shape": [
+        439,
+        508,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014353",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00014353.JPEG",
+    "primary_bbox_xyxy": [
+      104,
+      71,
+      409,
+      374
+    ],
+    "source_image_size_hw": [
+      439,
+      508
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02708093/ILSVRC2012_val_00014353__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          503,
+          245
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 70115,
+      "relocated_mask_area_px": 227305,
+      "object_rgb_shape": [
+        439,
+        508,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00021179",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00021179.JPEG",
+    "primary_bbox_xyxy": [
+      50,
+      38,
+      466,
+      465
+    ],
+    "source_image_size_hw": [
+      500,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02708093/ILSVRC2012_val_00021179__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.3092992232663747,
+        "pos": [
+          632,
+          392
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 161282,
+      "relocated_mask_area_px": 276711,
+      "object_rgb_shape": [
+        500,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00021179",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00021179.JPEG",
+    "primary_bbox_xyxy": [
+      50,
+      38,
+      466,
+      465
+    ],
+    "source_image_size_hw": [
+      500,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02708093/ILSVRC2012_val_00021179__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.2344191458319107,
+        "pos": [
+          651,
+          331
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 161282,
+      "relocated_mask_area_px": 245569,
+      "object_rgb_shape": [
+        500,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00028769",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00028769.JPEG",
+    "primary_bbox_xyxy": [
+      66,
+      45,
+      554,
+      627
+    ],
+    "source_image_size_hw": [
+      680,
+      624
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02708093/ILSVRC2012_val_00028769__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.090205414714535,
+        "pos": [
+          620,
+          349
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 232620,
+      "relocated_mask_area_px": 276249,
+      "object_rgb_shape": [
+        680,
+        624,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00028769",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00028769.JPEG",
+    "primary_bbox_xyxy": [
+      66,
+      45,
+      554,
+      627
+    ],
+    "source_image_size_hw": [
+      680,
+      624
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02708093/ILSVRC2012_val_00028769__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.0278555221745869,
+        "pos": [
+          639,
+          290
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 232620,
+      "relocated_mask_area_px": 245624,
+      "object_rgb_shape": [
+        680,
+        624,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044049",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00044049.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      68,
+      353,
+      468
+    ],
+    "source_image_size_hw": [
+      580,
+      435
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02708093/ILSVRC2012_val_00044049__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          568,
+          198
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 71412,
+      "relocated_mask_area_px": 231400,
+      "object_rgb_shape": [
+        580,
+        435,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044049",
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "content_rel_path": "n02708093/ILSVRC2012_val_00044049.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      68,
+      353,
+      468
+    ],
+    "source_image_size_hw": [
+      580,
+      435
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02708093/ILSVRC2012_val_00044049__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          568,
+          118
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 71412,
+      "relocated_mask_area_px": 231400,
+      "object_rgb_shape": [
+        580,
+        435,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019390",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00019390.JPEG",
+    "primary_bbox_xyxy": [
+      89,
+      121,
+      404,
+      288
+    ],
+    "source_image_size_hw": [
+      334,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02835271/ILSVRC2012_val_00019390__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          419
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 17025,
+      "relocated_mask_area_px": 55109,
+      "object_rgb_shape": [
+        334,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019390",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00019390.JPEG",
+    "primary_bbox_xyxy": [
+      89,
+      121,
+      404,
+      288
+    ],
+    "source_image_size_hw": [
+      334,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02835271/ILSVRC2012_val_00019390__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          339
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 17025,
+      "relocated_mask_area_px": 55109,
+      "object_rgb_shape": [
+        334,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00026250",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00026250.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      49,
+      350,
+      331
+    ],
+    "source_image_size_hw": [
+      332,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02835271/ILSVRC2012_val_00026250__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          421
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 22924,
+      "relocated_mask_area_px": 74410,
+      "object_rgb_shape": [
+        332,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00026250",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00026250.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      49,
+      350,
+      331
+    ],
+    "source_image_size_hw": [
+      332,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02835271/ILSVRC2012_val_00026250__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          341
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 22924,
+      "relocated_mask_area_px": 74410,
+      "object_rgb_shape": [
+        332,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00027159",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00027159.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      86,
+      452,
+      292
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02835271/ILSVRC2012_val_00027159__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 38981,
+      "relocated_mask_area_px": 126346,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00027159",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00027159.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      86,
+      452,
+      292
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02835271/ILSVRC2012_val_00027159__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 38981,
+      "relocated_mask_area_px": 126346,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00030070",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00030070.JPEG",
+    "primary_bbox_xyxy": [
+      77,
+      26,
+      443,
+      374
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02835271/ILSVRC2012_val_00030070__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 48887,
+      "relocated_mask_area_px": 158507,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00030070",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00030070.JPEG",
+    "primary_bbox_xyxy": [
+      77,
+      26,
+      443,
+      374
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02835271/ILSVRC2012_val_00030070__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 48887,
+      "relocated_mask_area_px": 158507,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036009",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00036009.JPEG",
+    "primary_bbox_xyxy": [
+      4,
+      32,
+      496,
+      258
+    ],
+    "source_image_size_hw": [
+      329,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02835271/ILSVRC2012_val_00036009__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          424
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50850,
+      "relocated_mask_area_px": 164842,
+      "object_rgb_shape": [
+        329,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036009",
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "content_rel_path": "n02835271/ILSVRC2012_val_00036009.JPEG",
+    "primary_bbox_xyxy": [
+      4,
+      32,
+      496,
+      258
+    ],
+    "source_image_size_hw": [
+      329,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02835271/ILSVRC2012_val_00036009__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          344
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50850,
+      "relocated_mask_area_px": 164842,
+      "object_rgb_shape": [
+        329,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009060",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00009060.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      2,
+      357,
+      274
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02981792/ILSVRC2012_val_00009060__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 16942,
+      "relocated_mask_area_px": 55010,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00009060",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00009060.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      2,
+      357,
+      274
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02981792/ILSVRC2012_val_00009060__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 16942,
+      "relocated_mask_area_px": 55010,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00013181",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00013181.JPEG",
+    "primary_bbox_xyxy": [
+      168,
+      75,
+      313,
+      407
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02981792/ILSVRC2012_val_00013181__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 9019,
+      "relocated_mask_area_px": 29225,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00013181",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00013181.JPEG",
+    "primary_bbox_xyxy": [
+      168,
+      75,
+      313,
+      407
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02981792/ILSVRC2012_val_00013181__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 9019,
+      "relocated_mask_area_px": 29225,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019980",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00019980.JPEG",
+    "primary_bbox_xyxy": [
+      98,
+      27,
+      277,
+      405
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02981792/ILSVRC2012_val_00019980__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 7624,
+      "relocated_mask_area_px": 24768,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019980",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00019980.JPEG",
+    "primary_bbox_xyxy": [
+      98,
+      27,
+      277,
+      405
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02981792/ILSVRC2012_val_00019980__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 7624,
+      "relocated_mask_area_px": 24768,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044495",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00044495.JPEG",
+    "primary_bbox_xyxy": [
+      120,
+      0,
+      492,
+      400
+    ],
+    "source_image_size_hw": [
+      469,
+      625
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02981792/ILSVRC2012_val_00044495__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          397,
+          298
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 31269,
+      "relocated_mask_area_px": 101341,
+      "object_rgb_shape": [
+        469,
+        625,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044495",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00044495.JPEG",
+    "primary_bbox_xyxy": [
+      120,
+      0,
+      492,
+      400
+    ],
+    "source_image_size_hw": [
+      469,
+      625
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02981792/ILSVRC2012_val_00044495__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          397,
+          218
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 31269,
+      "relocated_mask_area_px": 101341,
+      "object_rgb_shape": [
+        469,
+        625,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00046540",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00046540.JPEG",
+    "primary_bbox_xyxy": [
+      115,
+      16,
+      364,
+      328
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n02981792/ILSVRC2012_val_00046540__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          420
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 33630,
+      "relocated_mask_area_px": 108965,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00046540",
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "content_rel_path": "n02981792/ILSVRC2012_val_00046540.JPEG",
+    "primary_bbox_xyxy": [
+      115,
+      16,
+      364,
+      328
+    ],
+    "source_image_size_hw": [
+      333,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n02981792/ILSVRC2012_val_00046540__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          340
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 33630,
+      "relocated_mask_area_px": 108965,
+      "object_rgb_shape": [
+        333,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00007348",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00007348.JPEG",
+    "primary_bbox_xyxy": [
+      132,
+      161,
+      667,
+      413
+    ],
+    "source_image_size_hw": [
+      467,
+      700
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03100240/ILSVRC2012_val_00007348__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7667448268601196,
+        "pos": [
+          341,
+          307
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 88576,
+      "relocated_mask_area_px": 276537,
+      "object_rgb_shape": [
+        467,
+        700,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00007348",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00007348.JPEG",
+    "primary_bbox_xyxy": [
+      132,
+      161,
+      667,
+      413
+    ],
+    "source_image_size_hw": [
+      467,
+      700
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03100240/ILSVRC2012_val_00007348__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.6657029969320578,
+        "pos": [
+          377,
+          251
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 88576,
+      "relocated_mask_area_px": 245919,
+      "object_rgb_shape": [
+        467,
+        700,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00018249",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00018249.JPEG",
+    "primary_bbox_xyxy": [
+      18,
+      103,
+      625,
+      385
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03100240/ILSVRC2012_val_00018249__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.5599414220495653,
+        "pos": [
+          461,
+          345
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 113618,
+      "relocated_mask_area_px": 276520,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00018249",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00018249.JPEG",
+    "primary_bbox_xyxy": [
+      18,
+      103,
+      625,
+      385
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03100240/ILSVRC2012_val_00018249__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.470726877046712,
+        "pos": [
+          489,
+          287
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 113618,
+      "relocated_mask_area_px": 245789,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00020524",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00020524.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      220,
+      592,
+      431
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03100240/ILSVRC2012_val_00020524__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          384,
+          288
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 75233,
+      "relocated_mask_area_px": 243753,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00020524",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00020524.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      220,
+      592,
+      431
+    ],
+    "source_image_size_hw": [
+      480,
+      640
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03100240/ILSVRC2012_val_00020524__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          384,
+          208
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 75233,
+      "relocated_mask_area_px": 243753,
+      "object_rgb_shape": [
+        480,
+        640,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022491",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00022491.JPEG",
+    "primary_bbox_xyxy": [
+      22,
+      57,
+      468,
+      239
+    ],
+    "source_image_size_hw": [
+      310,
+      490
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03100240/ILSVRC2012_val_00022491__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          519,
+          441
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 43000,
+      "relocated_mask_area_px": 139467,
+      "object_rgb_shape": [
+        310,
+        490,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022491",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00022491.JPEG",
+    "primary_bbox_xyxy": [
+      22,
+      57,
+      468,
+      239
+    ],
+    "source_image_size_hw": [
+      310,
+      490
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03100240/ILSVRC2012_val_00022491__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          519,
+          361
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 43000,
+      "relocated_mask_area_px": 139467,
+      "object_rgb_shape": [
+        310,
+        490,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022587",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00022587.JPEG",
+    "primary_bbox_xyxy": [
+      7,
+      99,
+      733,
+      335
+    ],
+    "source_image_size_hw": [
+      469,
+      750
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03100240/ILSVRC2012_val_00022587__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.5677013058744116,
+        "pos": [
+          372,
+          352
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 112496,
+      "relocated_mask_area_px": 276374,
+      "object_rgb_shape": [
+        469,
+        750,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022587",
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "content_rel_path": "n03100240/ILSVRC2012_val_00022587.JPEG",
+    "primary_bbox_xyxy": [
+      7,
+      99,
+      733,
+      335
+    ],
+    "source_image_size_hw": [
+      469,
+      750
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03100240/ILSVRC2012_val_00022587__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.4780429656784033,
+        "pos": [
+          405,
+          293
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 112496,
+      "relocated_mask_area_px": 245551,
+      "object_rgb_shape": [
+        469,
+        750,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00008430",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00008430.JPEG",
+    "primary_bbox_xyxy": [
+      59,
+      110,
+      406,
+      373
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03417042/ILSVRC2012_val_00008430__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 69099,
+      "relocated_mask_area_px": 223850,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00008430",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00008430.JPEG",
+    "primary_bbox_xyxy": [
+      59,
+      110,
+      406,
+      373
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03417042/ILSVRC2012_val_00008430__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 69099,
+      "relocated_mask_area_px": 223850,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022172",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00022172.JPEG",
+    "primary_bbox_xyxy": [
+      41,
+      81,
+      435,
+      296
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03417042/ILSVRC2012_val_00022172__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 59115,
+      "relocated_mask_area_px": 191570,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00022172",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00022172.JPEG",
+    "primary_bbox_xyxy": [
+      41,
+      81,
+      435,
+      296
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03417042/ILSVRC2012_val_00022172__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 59115,
+      "relocated_mask_area_px": 191570,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00027110",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00027110.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      111,
+      468,
+      318
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03417042/ILSVRC2012_val_00027110__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50886,
+      "relocated_mask_area_px": 164874,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00027110",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00027110.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      111,
+      468,
+      318
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03417042/ILSVRC2012_val_00027110__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 50886,
+      "relocated_mask_area_px": 164874,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036233",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00036233.JPEG",
+    "primary_bbox_xyxy": [
+      16,
+      125,
+      376,
+      277
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03417042/ILSVRC2012_val_00036233__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 42473,
+      "relocated_mask_area_px": 137659,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00036233",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00036233.JPEG",
+    "primary_bbox_xyxy": [
+      16,
+      125,
+      376,
+      277
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03417042/ILSVRC2012_val_00036233__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 42473,
+      "relocated_mask_area_px": 137659,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044976",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00044976.JPEG",
+    "primary_bbox_xyxy": [
+      34,
+      52,
+      452,
+      313
+    ],
+    "source_image_size_hw": [
+      335,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n03417042/ILSVRC2012_val_00044976__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          418
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 78782,
+      "relocated_mask_area_px": 255254,
+      "object_rgb_shape": [
+        335,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00044976",
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "content_rel_path": "n03417042/ILSVRC2012_val_00044976.JPEG",
+    "primary_bbox_xyxy": [
+      34,
+      52,
+      452,
+      313
+    ],
+    "source_image_size_hw": [
+      335,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n03417042/ILSVRC2012_val_00044976__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7662090195468352,
+        "pos": [
+          518,
+          344
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 78782,
+      "relocated_mask_area_px": 245902,
+      "object_rgb_shape": [
+        335,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014269",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00014269.JPEG",
+    "primary_bbox_xyxy": [
+      13,
+      55,
+      343,
+      395
+    ],
+    "source_image_size_hw": [
+      500,
+      357
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n04099969/ILSVRC2012_val_00014269__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          638,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 30817,
+      "relocated_mask_area_px": 100042,
+      "object_rgb_shape": [
+        500,
+        357,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00014269",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00014269.JPEG",
+    "primary_bbox_xyxy": [
+      13,
+      55,
+      343,
+      395
+    ],
+    "source_image_size_hw": [
+      500,
+      357
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n04099969/ILSVRC2012_val_00014269__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          638,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 30817,
+      "relocated_mask_area_px": 100042,
+      "object_rgb_shape": [
+        500,
+        357,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019846",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00019846.JPEG",
+    "primary_bbox_xyxy": [
+      23,
+      73,
+      299,
+      497
+    ],
+    "source_image_size_hw": [
+      500,
+      337
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n04099969/ILSVRC2012_val_00019846__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          656,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 77427,
+      "relocated_mask_area_px": 250995,
+      "object_rgb_shape": [
+        500,
+        337,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00019846",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00019846.JPEG",
+    "primary_bbox_xyxy": [
+      23,
+      73,
+      299,
+      497
+    ],
+    "source_image_size_hw": [
+      500,
+      337
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n04099969/ILSVRC2012_val_00019846__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.7815966319434664,
+        "pos": [
+          660,
+          194
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 77427,
+      "relocated_mask_area_px": 245885,
+      "object_rgb_shape": [
+        500,
+        337,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024320",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00024320.JPEG",
+    "primary_bbox_xyxy": [
+      114,
+      1,
+      410,
+      362
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n04099969/ILSVRC2012_val_00024320__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          382
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 38728,
+      "relocated_mask_area_px": 125619,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024320",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00024320.JPEG",
+    "primary_bbox_xyxy": [
+      114,
+      1,
+      410,
+      362
+    ],
+    "source_image_size_hw": [
+      375,
+      500
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n04099969/ILSVRC2012_val_00024320__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          510,
+          302
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 38728,
+      "relocated_mask_area_px": 125619,
+      "object_rgb_shape": [
+        375,
+        500,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024620",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00024620.JPEG",
+    "primary_bbox_xyxy": [
+      12,
+      5,
+      320,
+      458
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n04099969/ILSVRC2012_val_00024620__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 52384,
+      "relocated_mask_area_px": 169697,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00024620",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00024620.JPEG",
+    "primary_bbox_xyxy": [
+      12,
+      5,
+      320,
+      458
+    ],
+    "source_image_size_hw": [
+      500,
+      375
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n04099969/ILSVRC2012_val_00024620__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          622,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 52384,
+      "relocated_mask_area_px": 169697,
+      "object_rgb_shape": [
+        500,
+        375,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00037370",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00037370.JPEG",
+    "primary_bbox_xyxy": [
+      57,
+      110,
+      297,
+      461
+    ],
+    "source_image_size_hw": [
+      500,
+      389
+    ],
+    "background_name": "openwater",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/openwater.jpg",
+    "output_rel_path": "images/openwater/n04099969/ILSVRC2012_val_00037370__bg-openwater.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          610,
+          270
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 45316,
+      "relocated_mask_area_px": 146933,
+      "object_rgb_shape": [
+        500,
+        389,
+        3
+      ],
+      "output_rgb_shape": [
+        1440,
+        1920,
+        3
+      ]
+    }
+  },
+  {
+    "image_id": "ILSVRC2012_val_00037370",
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "content_rel_path": "n04099969/ILSVRC2012_val_00037370.JPEG",
+    "primary_bbox_xyxy": [
+      57,
+      110,
+      297,
+      461
+    ],
+    "source_image_size_hw": [
+      500,
+      389
+    ],
+    "background_name": "surface",
+    "background_rel_path": "/data/local/rgaisina/datasets/object_relocation_backgrounds/surface.jpg",
+    "output_rel_path": "images/surface/n04099969/ILSVRC2012_val_00037370__bg-surface.jpg",
+    "method": "background_shift",
+    "pipeline_flags": {
+      "enable_inpainting": false,
+      "enable_relocation": true,
+      "apply_object_augmentation": false
+    },
+    "generation": {
+      "feather_px": 2,
+      "dilate_px": 0,
+      "jpeg_quality": 95
+    },
+    "relocation": {
+      "placement_mode": "center",
+      "scale_mode": "area_fraction",
+      "area_fraction": 0.1,
+      "margin_px": 8,
+      "meta": {
+        "scale": 1.8,
+        "pos": [
+          610,
+          190
+        ],
+        "attempt": 1,
+        "placement_mode": "center"
+      }
+    },
+    "artifacts": {
+      "object_mask_area_px": 45316,
+      "relocated_mask_area_px": 146933,
+      "object_rgb_shape": [
+        500,
+        389,
+        3
+      ],
+      "output_rgb_shape": [
+        1280,
+        1920,
+        3
+      ]
+    }
+  }
+]

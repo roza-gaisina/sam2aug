@@ -1,0 +1,37 @@
+inherits: base.yaml
+
+experiment:
+  name: geirhos_texture_nst_content
+
+generation:
+  resize_mode: cover
+  placement: object_bbox_tight   
+  feather_px: 1
+  dilate_px: 2
+  jpeg_quality: 95
+
+nst:
+  enabled: true
+
+  # resolution for square NST optimization
+  out_size: 384
+
+  # optimization
+  iters: 800
+  lbfgs_inner_iters: 20
+
+  # loss weights
+  style_weight: 500000
+  content_weight: 0.1
+  tv_weight: 1e-6
+
+  # initialization
+  init: content  # or "noise"
+
+  # emphasize shallow layers for texture
+  style_layer_weights:
+    relu1_1: 3.0
+    relu2_1: 2.0
+    relu3_1: 0.3
+    relu4_1: 0.05
+    relu5_1: 0.0

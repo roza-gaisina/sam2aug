@@ -1,0 +1,15 @@
+{
+  "experiment_name": "inpainting_rescale_size_for_prediction",
+  "num_content_images": 55,
+  "num_outputs_written": 220,
+  "num_manifest_entries": 220,
+  "scale_factors": [
+    1.0,
+    0.75,
+    0.5,
+    0.25
+  ],
+  "placement": "center",
+  "same_background": true,
+  "content_manifest": "/data/local/rgaisina/datasets/imagenet/meta/val_obj_reloc_selected_manifest.json"
+}

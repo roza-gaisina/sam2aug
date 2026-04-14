@@ -1,0 +1,36 @@
+{
+  "mode": "geirhos",
+  "model": "vit_base_patch16_224.augreg_in21k_ft_in1k",
+  "num_samples": 720,
+  "topk": 5,
+  "decision_top1": {
+    "shape": 355,
+    "texture": 87,
+    "other": 278
+  },
+  "decision_top1_pct": {
+    "shape": 49.30555555555556,
+    "texture": 12.083333333333334,
+    "other": 38.611111111111114
+  },
+  "decision_top5": {
+    "shape": 509,
+    "texture": 71,
+    "both": 80,
+    "other": 60
+  },
+  "decision_top5_pct": {
+    "shape": 70.69444444444444,
+    "texture": 9.86111111111111,
+    "both": 11.11111111111111,
+    "other": 8.333333333333334
+  },
+  "semantic_robustness": {
+    "parent_top1_match_count": 473,
+    "parent_top1_match_pct": 65.69444444444444,
+    "parent_top5_match_count": 623,
+    "parent_top5_match_pct": 86.52777777777777,
+    "parent_prob_mass_mean": 0.5723254830224705
+  },
+  "original_image_auc": {}
+}

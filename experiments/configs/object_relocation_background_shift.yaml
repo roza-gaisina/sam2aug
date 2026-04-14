@@ -1,0 +1,36 @@
+inherits: base.yaml
+
+experiment:
+  name: object_relocation_background_shift
+
+content:
+  manifest: /datasets/imagenet/meta/val_obj_reloc_selected_manifest.json #created by sam2aug/experiments/scripts/build_selected_manifest.py
+
+backgrounds:
+  dir: /datasets/inputs/object_relocation_backgrounds
+  names:
+    - openwater
+    - surface
+
+generation:
+  feather_px: 2
+  dilate_px: 0
+  jpeg_quality: 95
+
+relocation:
+  placement_mode: center
+  require_full_visibility: true
+  margin_px: 8
+  max_attempts: 5
+  jitter_px: 0
+
+  scale_mode: area_fraction
+  area_fraction: 0.10
+  min_scale: 0.25
+  max_scale: 1.80
+  shrink_to_fit: true
+
+  apply_object_augmentation: false
+
+logging:
+  enabled: true

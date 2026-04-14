@@ -1,0 +1,36 @@
+{
+  "mode": "geirhos",
+  "model": "resnet18.a1_in1k",
+  "num_samples": 720,
+  "topk": 5,
+  "decision_top1": {
+    "shape": 25,
+    "texture": 575,
+    "other": 120
+  },
+  "decision_top1_pct": {
+    "shape": 3.4722222222222223,
+    "texture": 79.86111111111111,
+    "other": 16.666666666666668
+  },
+  "decision_top5": {
+    "shape": 38,
+    "texture": 572,
+    "both": 50,
+    "other": 60
+  },
+  "decision_top5_pct": {
+    "shape": 5.277777777777778,
+    "texture": 79.44444444444444,
+    "both": 6.944444444444445,
+    "other": 8.333333333333334
+  },
+  "semantic_robustness": {
+    "parent_top1_match_count": 44,
+    "parent_top1_match_pct": 6.111111111111111,
+    "parent_top5_match_count": 139,
+    "parent_top5_match_pct": 19.305555555555557,
+    "parent_prob_mass_mean": 0.04764050328963277
+  },
+  "original_image_auc": {}
+}

@@ -1,0 +1,18 @@
+inherits: base.yaml
+experiment:
+  name: geirhos_texture_plus_edges
+
+generation:
+  resize_mode: cover
+  placement: object_bbox_tight
+  feather_px: 1
+  dilate_px: 2
+
+edges:
+  enabled: true
+  strength: 1.8
+  sobel_ksize: 3
+  blur_ksize: 3
+  blur_sigma: 0.6
+  edge_band_px: 0
+  edge_gamma: 1.0

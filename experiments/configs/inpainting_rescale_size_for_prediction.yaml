@@ -1,0 +1,34 @@
+inherits: base.yaml
+
+experiment:
+  name: inpainting_rescale_size_for_prediction
+
+content:
+  manifest: /datasets/imagenet/meta/val_obj_reloc_selected_manifest.json #created by sam2aug/experiments/scripts/build_selected_manifest.py
+
+pipeline:
+  # pipeline is used here as orchestrator for segmentation + inpainting only
+  log_pipeline: false
+  inpaint_mask_dilate_px: 35
+  apply_object_augmentation: false
+  enable_inpainting: true
+  enable_relocation: false
+
+relocation:
+  placement:
+    mode: anchor
+    anchor: bottom
+    require_full_visibility: true
+    margin_px: 0
+    max_attempts: 1
+    jitter_px: 0
+  blend:
+    dilate_px: 0
+    feather_px: 2
+
+scales:
+  # linear scale factors applied to the extracted tight object crop
+  factors: [1.0, 0.75, 0.5, 0.25]
+
+generation:
+  jpeg_quality: 95

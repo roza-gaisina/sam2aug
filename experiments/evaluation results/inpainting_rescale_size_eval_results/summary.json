@@ -1,0 +1,22 @@
+{
+  "experiment_root": "/data/local/rgaisina/experiments_final/inpainting_rescale_size_for_prediction",
+  "analysis_dir": "/data/local/rgaisina/experiments_final/inpainting_rescale_size_for_prediction/eval_results_1",
+  "models": [
+    "ResNet-18",
+    "ResNet-50",
+    "ViT-Tiny",
+    "ViT-Base"
+  ],
+  "scale_order": [
+    "scale100",
+    "scale075",
+    "scale050",
+    "scale025"
+  ],
+  "files": {
+    "overall_by_model_scale": "overall_by_model_scale.csv",
+    "original_vs_pipeline_baseline": "original_vs_pipeline_baseline.csv",
+    "class_by_model_scale": "class_by_model_scale.csv",
+    "best_worst_classes_smallest_scale": "best_worst_classes_smallest_scale.csv"
+  }
+}

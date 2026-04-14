@@ -1,0 +1,9 @@
+inherits: base.yaml
+experiment:
+  name: geirhos_texture_only
+
+generation:
+  resize_mode: cover
+  placement: object_bbox_tight
+  feather_px: 1
+  dilate_px: 2

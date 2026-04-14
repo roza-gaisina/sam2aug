@@ -1,0 +1,21 @@
+inherits: base.yaml
+
+experiment:
+  name: geirhos_texture_adain
+
+generation:
+  resize_mode: cover
+  placement: object_bbox_tight
+  feather_px: 2
+  dilate_px: 2
+  jpeg_quality: 95
+
+# AdaIN configuration
+adain:
+  repo: /pytorch-AdaIN #need to be downloaded separately from https://github.com/naoto0804/pytorch-AdaIN
+  vgg_path: /models/adain/vgg_normalised.pth  #need to be downloaded separately
+  decoder_path: /models/adain/decoder.pth  #need to be downloaded separately
+  
+  enabled: true
+  alpha: 1.0
+  size: 256

@@ -1,0 +1,937 @@
+[
+  {
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "flat_filename": "n01514859__ILSVRC2012_val_00005535.JPEG",
+    "original_rel_path": "n01514859/ILSVRC2012_val_00005535.JPEG",
+    "primary_bbox_xyxy": [
+      25,
+      52,
+      402,
+      460
+    ],
+    "image_id": "ILSVRC2012_val_00005535",
+    "image_size_hw": [
+      500,
+      500
+    ]
+  },
+  {
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "flat_filename": "n01514859__ILSVRC2012_val_00009615.JPEG",
+    "original_rel_path": "n01514859/ILSVRC2012_val_00009615.JPEG",
+    "primary_bbox_xyxy": [
+      0,
+      21,
+      386,
+      374
+    ],
+    "image_id": "ILSVRC2012_val_00009615",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "flat_filename": "n01514859__ILSVRC2012_val_00014879.JPEG",
+    "original_rel_path": "n01514859/ILSVRC2012_val_00014879.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      37,
+      409,
+      357
+    ],
+    "image_id": "ILSVRC2012_val_00014879",
+    "image_size_hw": [
+      388,
+      500
+    ]
+  },
+  {
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "flat_filename": "n01514859__ILSVRC2012_val_00014917.JPEG",
+    "original_rel_path": "n01514859/ILSVRC2012_val_00014917.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      39,
+      452,
+      387
+    ],
+    "image_id": "ILSVRC2012_val_00014917",
+    "image_size_hw": [
+      401,
+      500
+    ]
+  },
+  {
+    "wnid": "n01514859",
+    "class_name": "hen_bird",
+    "flat_filename": "n01514859__ILSVRC2012_val_00026271.JPEG",
+    "original_rel_path": "n01514859/ILSVRC2012_val_00026271.JPEG",
+    "primary_bbox_xyxy": [
+      110,
+      18,
+      413,
+      483
+    ],
+    "image_id": "ILSVRC2012_val_00026271",
+    "image_size_hw": [
+      500,
+      481
+    ]
+  },
+  {
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "flat_filename": "n02090622__ILSVRC2012_val_00006265.JPEG",
+    "original_rel_path": "n02090622/ILSVRC2012_val_00006265.JPEG",
+    "primary_bbox_xyxy": [
+      70,
+      69,
+      387,
+      278
+    ],
+    "image_id": "ILSVRC2012_val_00006265",
+    "image_size_hw": [
+      331,
+      500
+    ]
+  },
+  {
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "flat_filename": "n02090622__ILSVRC2012_val_00016996.JPEG",
+    "original_rel_path": "n02090622/ILSVRC2012_val_00016996.JPEG",
+    "primary_bbox_xyxy": [
+      44,
+      32,
+      423,
+      474
+    ],
+    "image_id": "ILSVRC2012_val_00016996",
+    "image_size_hw": [
+      476,
+      500
+    ]
+  },
+  {
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "flat_filename": "n02090622__ILSVRC2012_val_00024351.JPEG",
+    "original_rel_path": "n02090622/ILSVRC2012_val_00024351.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      70,
+      325,
+      448
+    ],
+    "image_id": "ILSVRC2012_val_00024351",
+    "image_size_hw": [
+      500,
+      390
+    ]
+  },
+  {
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "flat_filename": "n02090622__ILSVRC2012_val_00029814.JPEG",
+    "original_rel_path": "n02090622/ILSVRC2012_val_00029814.JPEG",
+    "primary_bbox_xyxy": [
+      79,
+      5,
+      384,
+      329
+    ],
+    "image_id": "ILSVRC2012_val_00029814",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02090622",
+    "class_name": "borzoi_dog",
+    "flat_filename": "n02090622__ILSVRC2012_val_00043334.JPEG",
+    "original_rel_path": "n02090622/ILSVRC2012_val_00043334.JPEG",
+    "primary_bbox_xyxy": [
+      60,
+      78,
+      499,
+      267
+    ],
+    "image_id": "ILSVRC2012_val_00043334",
+    "image_size_hw": [
+      333,
+      500
+    ]
+  },
+  {
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "flat_filename": "n02123045__ILSVRC2012_val_00008876.JPEG",
+    "original_rel_path": "n02123045/ILSVRC2012_val_00008876.JPEG",
+    "primary_bbox_xyxy": [
+      250,
+      7,
+      527,
+      478
+    ],
+    "image_id": "ILSVRC2012_val_00008876",
+    "image_size_hw": [
+      480,
+      640
+    ]
+  },
+  {
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "flat_filename": "n02123045__ILSVRC2012_val_00012975.JPEG",
+    "original_rel_path": "n02123045/ILSVRC2012_val_00012975.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      30,
+      274,
+      253
+    ],
+    "image_id": "ILSVRC2012_val_00012975",
+    "image_size_hw": [
+      273,
+      300
+    ]
+  },
+  {
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "flat_filename": "n02123045__ILSVRC2012_val_00020136.JPEG",
+    "original_rel_path": "n02123045/ILSVRC2012_val_00020136.JPEG",
+    "primary_bbox_xyxy": [
+      55,
+      138,
+      378,
+      315
+    ],
+    "image_id": "ILSVRC2012_val_00020136",
+    "image_size_hw": [
+      400,
+      400
+    ]
+  },
+  {
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "flat_filename": "n02123045__ILSVRC2012_val_00022080.JPEG",
+    "original_rel_path": "n02123045/ILSVRC2012_val_00022080.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      66,
+      503,
+      289
+    ],
+    "image_id": "ILSVRC2012_val_00022080",
+    "image_size_hw": [
+      319,
+      512
+    ]
+  },
+  {
+    "wnid": "n02123045",
+    "class_name": "tabby_cat",
+    "flat_filename": "n02123045__ILSVRC2012_val_00041570.JPEG",
+    "original_rel_path": "n02123045/ILSVRC2012_val_00041570.JPEG",
+    "primary_bbox_xyxy": [
+      439,
+      284,
+      1550,
+      1531
+    ],
+    "image_id": "ILSVRC2012_val_00041570",
+    "image_size_hw": [
+      1536,
+      2048
+    ]
+  },
+  {
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "flat_filename": "n02504458__ILSVRC2012_val_00003747.JPEG",
+    "original_rel_path": "n02504458/ILSVRC2012_val_00003747.JPEG",
+    "primary_bbox_xyxy": [
+      30,
+      87,
+      334,
+      254
+    ],
+    "image_id": "ILSVRC2012_val_00003747",
+    "image_size_hw": [
+      300,
+      360
+    ]
+  },
+  {
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "flat_filename": "n02504458__ILSVRC2012_val_00005109.JPEG",
+    "original_rel_path": "n02504458/ILSVRC2012_val_00005109.JPEG",
+    "primary_bbox_xyxy": [
+      68,
+      14,
+      347,
+      694
+    ],
+    "image_id": "ILSVRC2012_val_00005109",
+    "image_size_hw": [
+      720,
+      418
+    ]
+  },
+  {
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "flat_filename": "n02504458__ILSVRC2012_val_00017097.JPEG",
+    "original_rel_path": "n02504458/ILSVRC2012_val_00017097.JPEG",
+    "primary_bbox_xyxy": [
+      61,
+      85,
+      321,
+      283
+    ],
+    "image_id": "ILSVRC2012_val_00017097",
+    "image_size_hw": [
+      334,
+      500
+    ]
+  },
+  {
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "flat_filename": "n02504458__ILSVRC2012_val_00033235.JPEG",
+    "original_rel_path": "n02504458/ILSVRC2012_val_00033235.JPEG",
+    "primary_bbox_xyxy": [
+      141,
+      75,
+      604,
+      379
+    ],
+    "image_id": "ILSVRC2012_val_00033235",
+    "image_size_hw": [
+      439,
+      650
+    ]
+  },
+  {
+    "wnid": "n02504458",
+    "class_name": "african_elephant",
+    "flat_filename": "n02504458__ILSVRC2012_val_00036121.JPEG",
+    "original_rel_path": "n02504458/ILSVRC2012_val_00036121.JPEG",
+    "primary_bbox_xyxy": [
+      36,
+      229,
+      325,
+      483
+    ],
+    "image_id": "ILSVRC2012_val_00036121",
+    "image_size_hw": [
+      500,
+      333
+    ]
+  },
+  {
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "flat_filename": "n02690373__ILSVRC2012_val_00000631.JPEG",
+    "original_rel_path": "n02690373/ILSVRC2012_val_00000631.JPEG",
+    "primary_bbox_xyxy": [
+      49,
+      163,
+      486,
+      341
+    ],
+    "image_id": "ILSVRC2012_val_00000631",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "flat_filename": "n02690373__ILSVRC2012_val_00003960.JPEG",
+    "original_rel_path": "n02690373/ILSVRC2012_val_00003960.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      118,
+      479,
+      217
+    ],
+    "image_id": "ILSVRC2012_val_00003960",
+    "image_size_hw": [
+      333,
+      500
+    ]
+  },
+  {
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "flat_filename": "n02690373__ILSVRC2012_val_00010597.JPEG",
+    "original_rel_path": "n02690373/ILSVRC2012_val_00010597.JPEG",
+    "primary_bbox_xyxy": [
+      6,
+      145,
+      489,
+      327
+    ],
+    "image_id": "ILSVRC2012_val_00010597",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "flat_filename": "n02690373__ILSVRC2012_val_00016995.JPEG",
+    "original_rel_path": "n02690373/ILSVRC2012_val_00016995.JPEG",
+    "primary_bbox_xyxy": [
+      3,
+      69,
+      402,
+      262
+    ],
+    "image_id": "ILSVRC2012_val_00016995",
+    "image_size_hw": [
+      333,
+      500
+    ]
+  },
+  {
+    "wnid": "n02690373",
+    "class_name": "airliner",
+    "flat_filename": "n02690373__ILSVRC2012_val_00030411.JPEG",
+    "original_rel_path": "n02690373/ILSVRC2012_val_00030411.JPEG",
+    "primary_bbox_xyxy": [
+      47,
+      109,
+      480,
+      222
+    ],
+    "image_id": "ILSVRC2012_val_00030411",
+    "image_size_hw": [
+      333,
+      500
+    ]
+  },
+  {
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "flat_filename": "n02708093__ILSVRC2012_val_00009361.JPEG",
+    "original_rel_path": "n02708093/ILSVRC2012_val_00009361.JPEG",
+    "primary_bbox_xyxy": [
+      64,
+      29,
+      512,
+      347
+    ],
+    "image_id": "ILSVRC2012_val_00009361",
+    "image_size_hw": [
+      423,
+      600
+    ]
+  },
+  {
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "flat_filename": "n02708093__ILSVRC2012_val_00014353.JPEG",
+    "original_rel_path": "n02708093/ILSVRC2012_val_00014353.JPEG",
+    "primary_bbox_xyxy": [
+      104,
+      71,
+      409,
+      374
+    ],
+    "image_id": "ILSVRC2012_val_00014353",
+    "image_size_hw": [
+      439,
+      508
+    ]
+  },
+  {
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "flat_filename": "n02708093__ILSVRC2012_val_00021179.JPEG",
+    "original_rel_path": "n02708093/ILSVRC2012_val_00021179.JPEG",
+    "primary_bbox_xyxy": [
+      50,
+      38,
+      466,
+      465
+    ],
+    "image_id": "ILSVRC2012_val_00021179",
+    "image_size_hw": [
+      500,
+      500
+    ]
+  },
+  {
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "flat_filename": "n02708093__ILSVRC2012_val_00028769.JPEG",
+    "original_rel_path": "n02708093/ILSVRC2012_val_00028769.JPEG",
+    "primary_bbox_xyxy": [
+      66,
+      45,
+      554,
+      627
+    ],
+    "image_id": "ILSVRC2012_val_00028769",
+    "image_size_hw": [
+      680,
+      624
+    ]
+  },
+  {
+    "wnid": "n02708093",
+    "class_name": "analog_clock",
+    "flat_filename": "n02708093__ILSVRC2012_val_00044049.JPEG",
+    "original_rel_path": "n02708093/ILSVRC2012_val_00044049.JPEG",
+    "primary_bbox_xyxy": [
+      72,
+      68,
+      353,
+      468
+    ],
+    "image_id": "ILSVRC2012_val_00044049",
+    "image_size_hw": [
+      580,
+      435
+    ]
+  },
+  {
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "flat_filename": "n02835271__ILSVRC2012_val_00019390.JPEG",
+    "original_rel_path": "n02835271/ILSVRC2012_val_00019390.JPEG",
+    "primary_bbox_xyxy": [
+      89,
+      121,
+      404,
+      288
+    ],
+    "image_id": "ILSVRC2012_val_00019390",
+    "image_size_hw": [
+      334,
+      500
+    ]
+  },
+  {
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "flat_filename": "n02835271__ILSVRC2012_val_00026250.JPEG",
+    "original_rel_path": "n02835271/ILSVRC2012_val_00026250.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      49,
+      350,
+      331
+    ],
+    "image_id": "ILSVRC2012_val_00026250",
+    "image_size_hw": [
+      332,
+      500
+    ]
+  },
+  {
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "flat_filename": "n02835271__ILSVRC2012_val_00027159.JPEG",
+    "original_rel_path": "n02835271/ILSVRC2012_val_00027159.JPEG",
+    "primary_bbox_xyxy": [
+      15,
+      86,
+      452,
+      292
+    ],
+    "image_id": "ILSVRC2012_val_00027159",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "flat_filename": "n02835271__ILSVRC2012_val_00030070.JPEG",
+    "original_rel_path": "n02835271/ILSVRC2012_val_00030070.JPEG",
+    "primary_bbox_xyxy": [
+      77,
+      26,
+      443,
+      374
+    ],
+    "image_id": "ILSVRC2012_val_00030070",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02835271",
+    "class_name": "tandem_bicycle",
+    "flat_filename": "n02835271__ILSVRC2012_val_00036009.JPEG",
+    "original_rel_path": "n02835271/ILSVRC2012_val_00036009.JPEG",
+    "primary_bbox_xyxy": [
+      4,
+      32,
+      496,
+      258
+    ],
+    "image_id": "ILSVRC2012_val_00036009",
+    "image_size_hw": [
+      329,
+      500
+    ]
+  },
+  {
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "flat_filename": "n02981792__ILSVRC2012_val_00009060.JPEG",
+    "original_rel_path": "n02981792/ILSVRC2012_val_00009060.JPEG",
+    "primary_bbox_xyxy": [
+      122,
+      2,
+      357,
+      274
+    ],
+    "image_id": "ILSVRC2012_val_00009060",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "flat_filename": "n02981792__ILSVRC2012_val_00013181.JPEG",
+    "original_rel_path": "n02981792/ILSVRC2012_val_00013181.JPEG",
+    "primary_bbox_xyxy": [
+      168,
+      75,
+      313,
+      407
+    ],
+    "image_id": "ILSVRC2012_val_00013181",
+    "image_size_hw": [
+      500,
+      375
+    ]
+  },
+  {
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "flat_filename": "n02981792__ILSVRC2012_val_00019980.JPEG",
+    "original_rel_path": "n02981792/ILSVRC2012_val_00019980.JPEG",
+    "primary_bbox_xyxy": [
+      98,
+      27,
+      277,
+      405
+    ],
+    "image_id": "ILSVRC2012_val_00019980",
+    "image_size_hw": [
+      500,
+      375
+    ]
+  },
+  {
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "flat_filename": "n02981792__ILSVRC2012_val_00044495.JPEG",
+    "original_rel_path": "n02981792/ILSVRC2012_val_00044495.JPEG",
+    "primary_bbox_xyxy": [
+      120,
+      0,
+      492,
+      400
+    ],
+    "image_id": "ILSVRC2012_val_00044495",
+    "image_size_hw": [
+      469,
+      625
+    ]
+  },
+  {
+    "wnid": "n02981792",
+    "class_name": "catamaran_boat",
+    "flat_filename": "n02981792__ILSVRC2012_val_00046540.JPEG",
+    "original_rel_path": "n02981792/ILSVRC2012_val_00046540.JPEG",
+    "primary_bbox_xyxy": [
+      115,
+      16,
+      364,
+      328
+    ],
+    "image_id": "ILSVRC2012_val_00046540",
+    "image_size_hw": [
+      333,
+      500
+    ]
+  },
+  {
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "flat_filename": "n03100240__ILSVRC2012_val_00007348.JPEG",
+    "original_rel_path": "n03100240/ILSVRC2012_val_00007348.JPEG",
+    "primary_bbox_xyxy": [
+      132,
+      161,
+      667,
+      413
+    ],
+    "image_id": "ILSVRC2012_val_00007348",
+    "image_size_hw": [
+      467,
+      700
+    ]
+  },
+  {
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "flat_filename": "n03100240__ILSVRC2012_val_00018249.JPEG",
+    "original_rel_path": "n03100240/ILSVRC2012_val_00018249.JPEG",
+    "primary_bbox_xyxy": [
+      18,
+      103,
+      625,
+      385
+    ],
+    "image_id": "ILSVRC2012_val_00018249",
+    "image_size_hw": [
+      480,
+      640
+    ]
+  },
+  {
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "flat_filename": "n03100240__ILSVRC2012_val_00020524.JPEG",
+    "original_rel_path": "n03100240/ILSVRC2012_val_00020524.JPEG",
+    "primary_bbox_xyxy": [
+      37,
+      220,
+      592,
+      431
+    ],
+    "image_id": "ILSVRC2012_val_00020524",
+    "image_size_hw": [
+      480,
+      640
+    ]
+  },
+  {
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "flat_filename": "n03100240__ILSVRC2012_val_00022491.JPEG",
+    "original_rel_path": "n03100240/ILSVRC2012_val_00022491.JPEG",
+    "primary_bbox_xyxy": [
+      22,
+      57,
+      468,
+      239
+    ],
+    "image_id": "ILSVRC2012_val_00022491",
+    "image_size_hw": [
+      310,
+      490
+    ]
+  },
+  {
+    "wnid": "n03100240",
+    "class_name": "convertible_car",
+    "flat_filename": "n03100240__ILSVRC2012_val_00022587.JPEG",
+    "original_rel_path": "n03100240/ILSVRC2012_val_00022587.JPEG",
+    "primary_bbox_xyxy": [
+      7,
+      99,
+      733,
+      335
+    ],
+    "image_id": "ILSVRC2012_val_00022587",
+    "image_size_hw": [
+      469,
+      750
+    ]
+  },
+  {
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "flat_filename": "n03417042__ILSVRC2012_val_00008430.JPEG",
+    "original_rel_path": "n03417042/ILSVRC2012_val_00008430.JPEG",
+    "primary_bbox_xyxy": [
+      59,
+      110,
+      406,
+      373
+    ],
+    "image_id": "ILSVRC2012_val_00008430",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "flat_filename": "n03417042__ILSVRC2012_val_00022172.JPEG",
+    "original_rel_path": "n03417042/ILSVRC2012_val_00022172.JPEG",
+    "primary_bbox_xyxy": [
+      41,
+      81,
+      435,
+      296
+    ],
+    "image_id": "ILSVRC2012_val_00022172",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "flat_filename": "n03417042__ILSVRC2012_val_00027110.JPEG",
+    "original_rel_path": "n03417042/ILSVRC2012_val_00027110.JPEG",
+    "primary_bbox_xyxy": [
+      17,
+      111,
+      468,
+      318
+    ],
+    "image_id": "ILSVRC2012_val_00027110",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "flat_filename": "n03417042__ILSVRC2012_val_00036233.JPEG",
+    "original_rel_path": "n03417042/ILSVRC2012_val_00036233.JPEG",
+    "primary_bbox_xyxy": [
+      16,
+      125,
+      376,
+      277
+    ],
+    "image_id": "ILSVRC2012_val_00036233",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n03417042",
+    "class_name": "garbage_truck",
+    "flat_filename": "n03417042__ILSVRC2012_val_00044976.JPEG",
+    "original_rel_path": "n03417042/ILSVRC2012_val_00044976.JPEG",
+    "primary_bbox_xyxy": [
+      34,
+      52,
+      452,
+      313
+    ],
+    "image_id": "ILSVRC2012_val_00044976",
+    "image_size_hw": [
+      335,
+      500
+    ]
+  },
+  {
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "flat_filename": "n04099969__ILSVRC2012_val_00014269.JPEG",
+    "original_rel_path": "n04099969/ILSVRC2012_val_00014269.JPEG",
+    "primary_bbox_xyxy": [
+      13,
+      55,
+      343,
+      395
+    ],
+    "image_id": "ILSVRC2012_val_00014269",
+    "image_size_hw": [
+      500,
+      357
+    ]
+  },
+  {
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "flat_filename": "n04099969__ILSVRC2012_val_00019846.JPEG",
+    "original_rel_path": "n04099969/ILSVRC2012_val_00019846.JPEG",
+    "primary_bbox_xyxy": [
+      23,
+      73,
+      299,
+      497
+    ],
+    "image_id": "ILSVRC2012_val_00019846",
+    "image_size_hw": [
+      500,
+      337
+    ]
+  },
+  {
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "flat_filename": "n04099969__ILSVRC2012_val_00024320.JPEG",
+    "original_rel_path": "n04099969/ILSVRC2012_val_00024320.JPEG",
+    "primary_bbox_xyxy": [
+      114,
+      1,
+      410,
+      362
+    ],
+    "image_id": "ILSVRC2012_val_00024320",
+    "image_size_hw": [
+      375,
+      500
+    ]
+  },
+  {
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "flat_filename": "n04099969__ILSVRC2012_val_00024620.JPEG",
+    "original_rel_path": "n04099969/ILSVRC2012_val_00024620.JPEG",
+    "primary_bbox_xyxy": [
+      12,
+      5,
+      320,
+      458
+    ],
+    "image_id": "ILSVRC2012_val_00024620",
+    "image_size_hw": [
+      500,
+      375
+    ]
+  },
+  {
+    "wnid": "n04099969",
+    "class_name": "rocking_chair",
+    "flat_filename": "n04099969__ILSVRC2012_val_00037370.JPEG",
+    "original_rel_path": "n04099969/ILSVRC2012_val_00037370.JPEG",
+    "primary_bbox_xyxy": [
+      57,
+      110,
+      297,
+      461
+    ],
+    "image_id": "ILSVRC2012_val_00037370",
+    "image_size_hw": [
+      500,
+      389
+    ]
+  }
+]

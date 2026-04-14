@@ -1,0 +1,12 @@
+class_name,ResNet-18,ResNet-50,ViT-Base,ViT-Tiny
+hen_bird,0.9,0.9,1.0,1.0
+catamaran_boat,0.8,0.5,0.7,0.5
+rocking_chair,0.8,1.0,1.0,0.9
+african_elephant,0.7,1.0,0.8,0.7
+tandem_bicycle,0.7,0.8,0.9,0.6
+convertible_car,0.6,0.9,1.0,0.4
+airliner,0.4,0.5,1.0,0.1
+borzoi_dog,0.4,0.9,0.8,0.7
+garbage_truck,0.3,0.8,1.0,0.0
+tabby_cat,0.3,0.3,0.0,0.0
+analog_clock,0.1,0.5,1.0,0.8

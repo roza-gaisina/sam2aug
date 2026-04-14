@@ -127,11 +127,7 @@ This figure illustrates the main intermediate outputs of the pipeline for a sing
 - inpainted background
 - final composited image
 
-**X:** `docs/images/sam2aug_steps.png`
-
-```md
-![Intermediate outputs of the sam2aug pipeline](docs/images/sam2aug_steps.png)
-```
+![Intermediate outputs of the sam2aug pipeline](docs/images/sam2aug_steps.png?raw=true)
 
 ### Shape–texture dataset variants
 
@@ -142,29 +138,17 @@ Representative examples of the shape–texture dataset variants:
 - Texture + Edges
 - Texture NST
 - Texture AdaIN
-
-**X:** `docs/images/shape_texture.png`
-
-```md
-![Shape–texture dataset variants](docs/images/shape_texture.png)
-```
+  
+![Shape–texture dataset variants](docs/images/shape_texture.png?raw=true)
 
 ### Object relocation with background shift
 
 Examples from the relocation dataset with novel backgrounds.
 
-**X:** `docs/images/background_shift.png`
-
-```md
-![Object relocation with background shift](docs/images/background_shift.png)
-```
+![Object relocation with background shift](docs/images/background_shift.png?raw=true)
 
 ### Object rescaling
 
 Examples from the object rescaling dataset.
 
-**X:** `docs/images/object_rescale.png`
-
-```md
-![Object rescaling on reconstructed background](docs/images/object_rescale.png)
-```
+![Object rescaling on reconstructed background](docs/images/object_rescale.png?raw=true)

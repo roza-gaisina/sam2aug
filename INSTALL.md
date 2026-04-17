@@ -2,15 +2,6 @@
 
 This document explains how to set up the `sam2aug` repository and its external dependencies.
 
-## Overview
-
-The `sam2aug` package provides the core pipeline code for:
-- segmentation with SAM2
-- object extraction and postprocessing
-- inpainting with LaMa
-- object relocation and blending
-- experiment orchestration and evaluation support
-
 The repository does **not** provide the full third-party codebases for SAM2 or LaMa. These must be installed or made available separately.
 
 ## Tested environment
@@ -163,20 +154,9 @@ python -c "from saicinpainting.evaluation.utils import move_to_device; print('La
 python -c "import sam2; print(sam2.__file__)"
 ```
 
-A full end-to-end smoke test with one image and one bounding box is recommended before running larger experiments.
+Or use the provided test_pipeline.py script provided in the repository.
 
-## 9. Notes on portability
-
-This repository avoids hardcoded machine-specific paths in the source code.
-
-Instead:
-- external repository paths are configured via environment variables
-- third-party code is installed or exposed separately
-- the main package is installed in editable mode
-
-This makes the codebase easier to transfer to another machine without modifying the source files.
-
-## 10. Troubleshooting
+## 9. Troubleshooting
 
 ### `ModuleNotFoundError: No module named 'saicinpainting'`
 
@@ -222,27 +202,6 @@ python -c "import sam2aug; print(sam2aug.__file__)"
 
 Add them to `~/.bashrc` or `~/.zshrc` as described above.
 
-## 11. Suggested setup workflow summary
-
-```bash
-conda activate sam2aug
-
-cd /path/to/sam2_repo
-pip install -e .
-
-cd /path/to/sam2aug_repo
-pip install -e .
-
-export SAM2_HOME=/path/to/sam2_repo
-export LAMA_HOME=/path/to/lama
-export SAM2AUG_OUTPUT_DIR=/path/to/output_dir
-export PYTHONPATH=$SAM2_HOME:$LAMA_HOME:$PYTHONPATH
-
-python -c "import sam2aug; print(sam2aug.__file__)"
-python -c "from sam2aug import AugmentationPipeline, Segmenter, LamaInpainter; print('imports ok')"
-python -c "from saicinpainting.evaluation.utils import move_to_device; print('LaMa import ok')"
-```
-
-## 12. Repository-specific note
+## 11. Repository-specific note
 
 All experiment-specific parameters, model checkpoint paths, and output locations should be reviewed in `config.py` and the experiment configuration files before running large-scale generation or evaluation jobs.

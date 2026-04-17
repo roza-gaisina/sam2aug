@@ -26,7 +26,7 @@ sam2aug/
 
 ├── setup.py          # Package installation
 ├── pyproject.toml    # Packaging config
-├── SETUP.md          # Environment setup
+├── INSTALL.md          # Environment setup
 └── PROJECT_STRUCTURE.md
 ```
 
@@ -48,7 +48,7 @@ sam2aug/
 
 ### Purpose
 
-Implements the **object-centric augmentation pipeline** SAM2AUG.
+Implements the **object-centric augmentation pipeline** sam2aug.
 
 ### Key Components
 

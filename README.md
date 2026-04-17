@@ -20,7 +20,7 @@ It was evaluated during the experiments accompanying master thesis, with a focus
 
 Before installing or running anything, read these files in the following order:
 
-1. **`SETUP.md`**  
+1. **`INSTALL.md`**  
    Environment setup, external dependencies, editable installs, required environment variables, and troubleshooting.
 
 2. **`PROJECT_STRUCTURE.md`**  
@@ -42,11 +42,10 @@ sam2aug/
 ├── experiments/      # Dataset generation and evaluation scripts
 ├── notebooks/        # Analysis and plotting notebooks
 │
-├── SETUP.md
+├── INSTALL.md
 ├── PROJECT_STRUCTURE.md
 ├── setup.py
-├── pyproject.toml
-└── sam2aug/config.py
+└── pyproject.toml
 ```
 
 ### Core package
@@ -58,7 +57,6 @@ The core implementation lives in `sam2aug/`:
 - `postprocessor.py` — object extraction and source-with-hole creation
 - `inpainter.py` / `lama_inpaint.py` — LaMa-based background reconstruction
 - `relocator.py` — object transformation, scaling, placement, and blending
-
 
 ## Installation summary
 
@@ -74,47 +72,18 @@ The codebase was developed and tested with:
 - NVIDIA CUDA runtime 13.0
 ### 2. Install `sam2aug`
 
-Run this from the repository root:
+Run this:
 
 ```bash
 git clone https://github.com/roza-gaisina/sam2aug.git 
 cd sam2aug
 pip install -e .
 ```
-
-### 3. Install external dependencies
-
-- **SAM2** should be installed from its own repository
-- **LaMa** must be available on `PYTHONPATH`:
-
-```bash
-export LAMA_HOME=/path/to/lama
-export PYTHONPATH=$LAMA_HOME:$PYTHONPATH
-```
-
-### 4. Set environment variables
-
-```bash
-export SAM2_HOME=/path/to/sam2_repo
-export LAMA_HOME=/path/to/lama
-export SAM2AUG_OUTPUT_DIR=/path/to/output_dir
-export PYTHONPATH=$SAM2_HOME:$LAMA_HOME:$PYTHONPATH
-```
-
-### 5. Verify imports
-
-```bash
-python -c "import sam2aug; print(sam2aug.__file__)"
-python -c "from sam2aug import AugmentationPipeline, Segmenter, LamaInpainter; print('imports ok')"
-python -c "from saicinpainting.evaluation.utils import move_to_device; print('LaMa import ok')"
-python -c "import sam2; print(sam2.__file__)"
-```
-
 ---
 
 ## Example outputs
 
-Below are representative examples used in the thesis.  
+Below are representative examples created with sam2aug and used in the thesis.  
 
 ### Intermediate pipeline outputs
 
